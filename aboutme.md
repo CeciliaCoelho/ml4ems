@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Presenters
+title: Team
 subtitle: 
 ---
 
