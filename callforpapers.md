@@ -27,3 +27,8 @@ We invite submissions on topics at the intersection of machine learning and phys
 - **Full papers** (max 16 pages including references, LNCS format) for oral presentation (~15min + 5min Q&A) and publication in Springer LNCS. [Get the template here.](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines).
 
 - **Extended abstracts** (2 pages including references) for recently published work in top-tier venues (JMLR, JAIR, MLJ, PAMI, IJCAI, NeurIPS, ICLR, AISTATS, ICML, or other SJR Q1 / CORE A* venues). Authors should indicate the original publication venue in the submission form. Accepted abstracts will be presented orally (~10min + 5min Q&A). [Get the template here.](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines).
+
+
+### Reviewing format
+
+**Double-blind review**
