@@ -4,6 +4,8 @@ title: Team
 subtitle: 
 ---
 
+## Main Chair
+
  <font size="32" family="Open Sans">
     <b>Luís Ferrás</b>
 </font>
@@ -43,6 +45,8 @@ subtitle:
 Assistant Professor at the Department of Mechanical Engineering (Section of Mathematics), Faculty of Engineering, University of Porto (FEUP), and a researcher at the Centre of Mathematics, University of Minho, Portugal. He received his PhD in Science and Engineering of Polymers and Composites from the University of Minho in 2012, a Ph.D. in Mathematics from the University of Chester in 2019, and was a visiting researcher at MIT in 2016 and 2017. His current research interests are numerical analysis, applied mathematics, partial and fractional differential equations, mathematical modelling, computational mechanics, computational fluid dynamics, complex viscoelastic flows, rheology, anomalous diffusion, and machine learning.
 
 
+
+## Chairs
 
  <font size="32" family="Open Sans">
     <b>Cecília Coelho</b>
@@ -110,3 +114,7 @@ Assistant Professor at the Department of Mechanical Engineering (Section of Math
 
 Postoctoral researcher at the Helmut Schmidt University. She completed her Bachelor’s degree in Physics, her Master’s degree in Mathematics and Computation and her PhD in Mathematics, all at the University of Minho. Her Doctoral Thesis, completed in 2025, focused on “Neural Networks Based on Differential Equations for Modelling Real Systems” specifically developing architectures that model differential equations to data and methods to incorporate constraints. Her research interests lie at the intersection of mathematics and computer science, with a focus on enhancing the performance of real-world systems modeling. Her primary areas of study include Neural Networks, Scientific Machine Learning, Neural Ordinary Differential Equations, Physics-Informed Neural Networks, and Optimization for Machine Learning. Through her work, she aims to advance the application of mathematical and computational techniques in solving complex real-world problems. 
 
+
+## Organisers
+
+Details about the organisers will be announced soon. Stay tuned!
