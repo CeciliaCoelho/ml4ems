@@ -6,9 +6,7 @@ subtitle:
 
 ## Main Chair
 
- <font size="32" family="Open Sans">
-    <b>Cecília Coelho</b>
-</font>
+### Cecília Coelho, Helmut Schmidt University, Hamburg, Germany
 
 <div>
  <li class="list-inline-item">
@@ -75,9 +73,7 @@ Postdoctoral researcher at the Professorship of Computer Science in Mechanical E
 
 ## Chairs
 
- <font size="32" family="Open Sans">
-    <b>Luís Ferrás</b>
-</font>
+### Luís Ferrás, Department of Mechanical Engineering, Faculty of Engineering, University of Porto, Porto, Portugal
 
 <div>
  <li class="list-inline-item">
@@ -116,9 +112,7 @@ Earlier, he co-organised events such as the 11th OpenFOAM Workshop (2016), sever
 
 ---
 
- <font size="32" family="Open Sans">
-    <b>María Ortiz de Zuniga</b>
-</font>
+### María Ortiz de Zuniga, Fusion for Energy (F4E)
 
 <div>
  <li class="list-inline-item">
@@ -138,9 +132,7 @@ María is Head of Project Engineering, CAD and Data Management at Fusion for Ene
 
 ---
 
- <font size="32" family="Open Sans">
-    <b>Oliver Niggemann</b>
-</font>
+### Oliver Niggemann, Helmut Schmidt University, Hamburg, Germany
 
 <div>
  <li class="list-inline-item">
