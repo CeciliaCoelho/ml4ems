@@ -172,6 +172,6 @@ He is the Principal Investigator of several research projects using ML for mater
 ## Organisers
 
 - **Cecília Coelho** — Helmut Schmidt University, Hamburg, Germany
-- **Luís Ferrás** — University of Porto (FEUP) / Centre of Mathematics, University of Minho, Portugal
-- **María Ortiz de Zuniga** — Fusion for Energy
-- **Oliver Niggemann** — HSU-AI Institute for Artificial Intelligence, Helmut-Schmidt-University / University of the Federal Armed Forces Hamburg, Germany
+- **Luís Ferrás** — University of Porto Porto, Portugal
+- **María Ortiz de Zuniga** — Fusion for Energy (F4E)
+- **Oliver Niggemann** — Helmut Schmidt University, Hamburg, Germany
