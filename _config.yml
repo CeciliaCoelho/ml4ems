@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Home 
+title: ML4EMS @ ECML PKDD 2025
 
 # Your name to show in the footer
 author: Luís Ferrás & Cecília Coelho
@@ -20,13 +20,12 @@ author: Luís Ferrás & Cecília Coelho
 ###############################################
 
 navbar-links:
+  Team: "aboutme"
+  Call for Papers: "callforpapers"
   Schedule: "schedule"
-  Presenters: "aboutme"
+  Keynote Speaker: "keynote"
+  Program Committee: "programcommittee"
   FAQ: "faq"
-  Resources:
-    - Slides: "slidesPage"
-    - Jupyter Notebooks: "interactiveNotes"
-    - More: "otherResources"
 
 ################
 # --- Logo --- #
