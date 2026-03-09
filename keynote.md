@@ -4,7 +4,7 @@ title: Keynote Speaker
 subtitle: 
 ---
 
-## Paola Cinnella, Sorbonne University, Paris, France</b>
+## Paola Cinnella, Sorbonne University, Paris, France
 ### Title: TBA
 
 Paola is a Full Professor of Fluid Mechanics at Sorbonne University (Institut Jean Le Rond D'Alembert) in Paris, France. She received her Ph.D. in Fluid Mechanics from the École Nationale Supérieure d'Arts et Métiers (ENSAM) in Paris after completing a Master's Degree in Fluid Mechanics at École Nationale d'Ingénieurs Arts et Métiers ParisTech (ENSAM) and a Mechanical Engineering degree from Politecnico di Bari, Italy.
