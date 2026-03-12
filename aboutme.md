@@ -175,9 +175,9 @@ He is the Principal Investigator of several research projects using ML for mater
 
 - **Cecília Coelho** — Helmut Schmidt University, Hamburg, Germany
 - **Luís Ferrás** — University of Porto, Porto, Portugal
+- **Doaa Mohamed** — Interdisciplinary Centre for Advanced Materials Simulation, Ruhr University Bochum, Bochum, Germany
 - **María Ortiz de Zuniga** — Fusion for Energy (F4E)
 - **Oliver Niggemann** — Helmut Schmidt University, Hamburg, Germany
-- **Doaa Mohamed** — Interdisciplinary Centre for Advanced Materials Simulation, Ruhr University Bochum, Bochum, Germany
 - **Markus Stricker** — Interdisciplinary Centre for Advanced Materials Simulation, Ruhr University Bochum, Bochum, Germany
 - **Alaa Tharwat** — Bielefeld University of Applied Sciences and Arts (HSBI), Bielefeld, Germany
 - **Lei Zhang** — Interdisciplinary Centre for Advanced Materials Simulation, Ruhr University Bochum, Bochum, Germany
