@@ -85,7 +85,6 @@ Postdoctoral researcher at the Professorship of Computer Science in Mechanical E
   </li>
 
 
-
 <li class="list-inline-item">
     <a href="https://scholar.google.com/citations?user=4uL1rf4AAAAJ&hl=en" title="Google Scholar">
       <span class="fa-stack fa-lg" aria-hidden="true">
@@ -212,7 +211,45 @@ María is Head of Project Engineering, CAD and Data Management at Fusion for Ene
 Full Professor at Helmut Schmidt University, chair of "Computer Science in Mechanical Engineering" with a focus on AI and machine learning in cyber-physical systems. His contributions are evident in his publications at major AI conferences like AAAI (2015, 2019) and his organizer/chairing roles, i.e. at IJCAI 2021 workshop on AI and Product Design (<a href="https://www.hsu-hh.de/imb/en/ijcai-2021-workshop-ai-and-product-design">www.hsu-hh.de/imb/en/ijcai-2021-workshop-ai-and-product-design</a>), at International Workshop on Principle of Diagnosis (DX) 2021 (<a href="https://www.hsu-hh.de/imb/en/dx-2021">www.hsu-hh.de/imb/en/dx-2021</a>), at the conference Machine Learning for Cyber-Physical Systems (ML4CPS) 2023/2024/2025/2026 (<a href="https://www.hsu-hh.de/imb/en/ml4cps">www.hsu-hh.de/imb/en/ml4cps</a>), or at AAAI 2024 workshop on AI Planning for Cyber-Physical Systems (<a href="https://www.hsu-hh.de/imb/en/aaai24-caipi">www.hsu-hh.de/imb/en/aaai24-caipi</a>). He is also a PC member at ECAI 2023. IJCAI (2023, 2022, 2021, 2020, 2018) and AAAI (2022, 2021, 2020, 2018, 2017, 2016). Organizer of the ECAI 2024 (<a href="https://mlde-ecai-2024.github.io/">mlde-ecai-2024.github.io</a>) and 2025 (<a href="https://mlde-ecai-2025.github.io/">mlde-ecai-2025.github.io</a>) Workshop [ML-DE] "Machine Learning Meets Differential Equations: From Theory to Applications".
 He is the Principal Investigator of several research projects using ML for material science, such as for aircraft maintenance, sheet metal forming, material damage due to fire, among others.
 
+### Markus Stricker, Interdisciplinary Centre for Advanced Materials Simulation (ICAMS), Ruhr University Bochum, Germany
 
+<div>
+<li class="list-inline-item">
+    <a href="markus.stricker@ruhr-uni-bochum.de>" title="Email me">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fas fa-envelope fa-stack-1x fa-inverse"></i>
+      </span>
+   </a>
+</li>
+
+<li class="list-inline-item">
+   <a href="https://www.icams.de/institute/departments-groups/materials-informatics-and-data-science/" title="Website">
+     <span class="fa-stack fa-lg" aria-hidden="true">
+       <i class="fas fa-circle fa-stack-2x"></i>
+       <i class="fas fa-globe fa-stack-1x fa-inverse"></i>
+     </span>
+   </a>
+</li>
+<li class="list-inline-item">
+    <a href="https://scholar.google.com/citations?user=4Wd2ekwAAAAJ&hl=de" title="Google Scholar">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fa fa-graduation-cap fa-stack-1x fa-inverse"></i>
+      </span>
+    </a>
+</li>
+<li class="list-inline-item">
+    <a href="https://www.linkedin.com/in/markus-stricker-744b0653/" title="LinkedIn">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-linkedin fa-stack-1x fa-inverse"></i>
+      </span>
+   </a>
+</li>
+</div>
+
+Junior Professor for Materials Informatics and Data Science at the Interdisciplinary Centre for Advanced Materials Simulation (ICAMS), Ruhr University Bochum. He received his PhD in Mechanical Engineering from Karlsruhe Institute of Technology. His research focuses on exploiting the materials data space across simulations, experiments, and scientific literature, with particular emphasis on building representation bridges between different data modalities. He has organised and contributed to several workshops and conferences in artificial intelligence for materials science.
 
 ## Organisers
 
