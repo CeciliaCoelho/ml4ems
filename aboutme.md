@@ -72,6 +72,49 @@ Postdoctoral researcher at the Professorship of Computer Science in Mechanical E
 
 
 ## Chairs
+### Doaa Mohamed, Interdisciplinary Centre for Advanced Materials Simulation (ICAMS), Ruhr University Bochum, Germany
+
+<div>
+ <li class="list-inline-item">
+    <a href="	Doaa.mohamed@ruhr-uni-bochum.de" title="Email me">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fas fa-envelope fa-stack-1x fa-inverse"></i>
+      </span>
+   </a>
+  </li>
+
+
+
+<li class="list-inline-item">
+    <a href="https://scholar.google.com/citations?user=4uL1rf4AAAAJ&hl=en" title="Google Scholar">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fa fa-graduation-cap fa-stack-1x fa-inverse"></i>
+      </span>
+    </a>
+</li>
+
+<li class="list-inline-item">
+    <a href="https://github.com/doaa1012?tab=repositories" title="GitHub">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-github fa-stack-1x fa-inverse"></i>
+      </span>
+   </a>
+</li>
+
+<li class="list-inline-item">
+    <a href="https://www.linkedin.com/in/doaa-mohamed-6a8a5ab9/" title="LinkedIn">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-linkedin fa-stack-1x fa-inverse"></i>
+      </span>
+   </a>
+</li>
+</div>
+
+PhD researcher at the Interdisciplinary Centre for Advanced Materials Simulation (ICAMS), Ruhr University Bochum. Her research focuses on machine learning under data-scarce conditions, active learning, uncertainty-aware modelling, and the development of scientific data infrastructures for advanced materials discovery. She also works on the design and integration of research databases supporting structured data management, interoperability, and reproducible machine learning workflows in materials science.
 
 ### Luís Ferrás, Department of Mechanical Engineering, Faculty of Engineering, University of Porto, Porto, Portugal
 
@@ -111,6 +154,10 @@ Earlier, he co-organised events such as the 11th OpenFOAM Workshop (2016), sever
 
 
 ---
+
+
+
+
 
 ### María Ortiz de Zuniga, Fusion for Energy (F4E)
 
