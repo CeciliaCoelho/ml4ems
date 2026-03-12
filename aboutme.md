@@ -156,9 +156,6 @@ Earlier, he co-organised events such as the 11th OpenFOAM Workshop (2016), sever
 ---
 
 
-
-
-
 ### María Ortiz de Zuniga, Fusion for Energy (F4E)
 
 <div>
@@ -216,7 +213,6 @@ Full Professor at Helmut Schmidt University, chair of "Computer Science in Mecha
 He is the Principal Investigator of several research projects using ML for material science, such as for aircraft maintenance, sheet metal forming, material damage due to fire, among others.
 
 
-## Organisers
 
 ## Organisers
 
