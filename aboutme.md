@@ -76,7 +76,7 @@ Postdoctoral researcher at the Professorship of Computer Science in Mechanical E
 
 <div>
  <li class="list-inline-item">
-    <a href="	Doaa.mohamed@ruhr-uni-bochum.de" title="Email me">
+    <a href="mailto:Doaa.mohamed@ruhr-uni-bochum.de" title="Email me">
       <span class="fa-stack fa-lg" aria-hidden="true">
         <i class="fas fa-circle fa-stack-2x"></i>
         <i class="fas fa-envelope fa-stack-1x fa-inverse"></i>
@@ -212,10 +212,9 @@ Full Professor at Helmut Schmidt University, chair of "Computer Science in Mecha
 He is the Principal Investigator of several research projects using ML for material science, such as for aircraft maintenance, sheet metal forming, material damage due to fire, among others.
 
 ### Markus Stricker, Interdisciplinary Centre for Advanced Materials Simulation (ICAMS), Ruhr University Bochum, Germany
-
 <div>
 <li class="list-inline-item">
-    <a href="markus.stricker@ruhr-uni-bochum.de>" title="Email me">
+    <a href="mailto:markus.stricker@ruhr-uni-bochum.de" title="Email me">
       <span class="fa-stack fa-lg" aria-hidden="true">
         <i class="fas fa-circle fa-stack-2x"></i>
         <i class="fas fa-envelope fa-stack-1x fa-inverse"></i>
@@ -251,11 +250,106 @@ He is the Principal Investigator of several research projects using ML for mater
 
 Junior Professor for Materials Informatics and Data Science at the Interdisciplinary Centre for Advanced Materials Simulation (ICAMS), Ruhr University Bochum. He received his PhD in Mechanical Engineering from Karlsruhe Institute of Technology. His research focuses on exploiting the materials data space across simulations, experiments, and scientific literature, with particular emphasis on building representation bridges between different data modalities. He has organised and contributed to several workshops and conferences in artificial intelligence for materials science.
 
+### Alaa Tharwat, Bielefeld University of Applied Sciences and Arts (HSBI), Germany
+<div>
+<li class="list-inline-item">
+    <a href="mailto:alaa.othman@hsbi.de" title="Email me">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fas fa-envelope fa-stack-1x fa-inverse"></i>
+      </span>
+   </a>
+</li>
+
+<li class="list-inline-item">
+   <a href="https://www.hsbi.de/personenverzeichnis/alaa-othman" title="Profile">
+     <span class="fa-stack fa-lg" aria-hidden="true">
+       <i class="fas fa-circle fa-stack-2x"></i>
+       <i class="fas fa-globe fa-stack-1x fa-inverse"></i>
+     </span>
+   </a>
+</li>
+</div>
+
+Postdoctoral researcher and research group leader at Bielefeld University of Applied Sciences and Arts. His research interests include machine learning with small data, active learning strategies, and optimisation methods for Industry 4.0 applications. He has organised multiple workshops, tutorials, and special sessions at international conferences such as ECML PKDD and IJCNN.
+
+### Lei Zhang, Interdisciplinary Centre for Advanced Materials Simulation (ICAMS), Ruhr University Bochum, Germany
+
+<div>
+<li class="list-inline-item">
+    <a href="mailto:lei.zhang-w2i@ruhr-uni-bochum.de" title="Email me">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fas fa-envelope fa-stack-1x fa-inverse"></i>
+      </span>
+   </a>
+</li>
+
+<li class="list-inline-item">
+   <a href="https://leizhang-research.github.io" title="Website">
+     <span class="fa-stack fa-lg" aria-hidden="true">
+       <i class="fas fa-circle fa-stack-2x"></i>
+       <i class="fas fa-globe fa-stack-1x fa-inverse"></i>
+     </span>
+   </a>
+</li>
+</div>
+
+Postdoctoral researcher at ICAMS, Ruhr University Bochum, working on data-driven approaches to accelerate materials discovery. His research focuses on applying natural language processing and machine learning to scientific literature mining, multi-modal learning, and optimisation for electrocatalyst discovery combined with experimental validation.
+
+### Thomas Philipp Zimmermann, Bielefeld University of Applied Sciences and Arts, Germany
+
+<div>
+<li class="list-inline-item">
+    <a href="mailto:Thomas.zimmermann@hsbi.de" title="Email me">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fas fa-envelope fa-stack-1x fa-inverse"></i>
+      </span>
+   </a>
+</li>
+
+<li class="list-inline-item">
+   <a href="https://www.hsbi.de/personenverzeichnis/thomas-zimmermann" title="Profile">
+     <span class="fa-stack fa-lg" aria-hidden="true">
+       <i class="fas fa-circle fa-stack-2x"></i>
+       <i class="fas fa-globe fa-stack-1x fa-inverse"></i>
+     </span>
+   </a>
+</li>
+</div>
+
+Postdoctoral researcher specialising in formulation chemistry and structure–function correlations. His work focuses on biomaterials containing living cells for biological pest control applications. He aims to improve formulation efficiency using machine learning techniques to support sustainable alternatives to conventional solutions.
+
+### Elzbieta Stepula, Bielefeld University of Applied Sciences and Arts, Germany
+
+<div>
+<li class="list-inline-item">
+    <a href="mailto:elzbieta.stepula@hsbi.de" title="Email me">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fas fa-envelope fa-stack-1x fa-inverse"></i>
+      </span>
+   </a>
+</li>
+
+<li class="list-inline-item">
+   <a href="https://www.hsbi.de/personenverzeichnis/elzbieta-stepula" title="Profile">
+     <span class="fa-stack fa-lg" aria-hidden="true">
+       <i class="fas fa-circle fa-stack-2x"></i>
+       <i class="fas fa-globe fa-stack-1x fa-inverse"></i>
+     </span>
+   </a>
+</li>
+</div>
+
+Postdoctoral researcher with a background in physical chemistry, spectroscopy, and microscopy. Her research focuses on developing innovative biomaterials and optimising characterisation methods. She works at the interface of materials science, data science, and machine learning to enable data-driven development of advanced material systems.
+
 ## Organisers
 
 - **Cecília Coelho** — Helmut Schmidt University, Hamburg, Germany
-- **Luís Ferrás** — University of Porto, Porto, Portugal
 - **Doaa Mohamed** — Interdisciplinary Centre for Advanced Materials Simulation, Ruhr University Bochum, Bochum, Germany
+- **Luís Ferrás** — University of Porto, Porto, Portugal
 - **María Ortiz de Zuniga** — Fusion for Energy (F4E)
 - **Oliver Niggemann** — Helmut Schmidt University, Hamburg, Germany
 - **Markus Stricker** — Interdisciplinary Centre for Advanced Materials Simulation, Ruhr University Bochum, Bochum, Germany
