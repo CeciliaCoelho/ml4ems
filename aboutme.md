@@ -70,8 +70,6 @@ subtitle:
 
 Postdoctoral researcher at the Professorship of Computer Science in Mechanical Engineering, Helmut Schmidt University, Hamburg, Germany. PhD in Mathematics. Her current research focuses on enhancing the performance of real-world systems modelling (physics, biology, chemistry, finance and engineering) by exploring the symbiosis of differential equations and neural networks and the integration of expert-knowledge, in the form of explicit constraints, into neural networks. Her research topics are: Theoretical Machine Learning; Optimisation for Machine Learning; Scientific-Machine Learning; Differential Equations; Numerical Analysis; Climate AI. Publication in major AI venues including ICLR 2023/2024 and workshops at ECML PKDD 2023 and ECAI 2023/2024. Actively contributes to the academic community as a reviewer for major AI conferences, including NeurIPS, ICLR, and IJCAI. Organizer of the ECAI 2024 (<a href="https://mlde-ecai-2024.github.io/">mlde-ecai-2024.github.io</a>) and 2025 (<a href="https://mlde-ecai-2025.github.io/">mlde-ecai-2025.github.io</a>) Workshop [ML-DE] "Machine Learning Meets Differential Equations: From Theory to Applications", and the Mini-Colloquia "Integrative approaches in physics: using machine learning to explore magnetism, disordered media, and materials science." at the General Conference of the Condensed Matter Division (CMD31) 2024 (<a href="https://cmd31.sci-meet.net/mini-colloquia">cmd31.sci-meet.net/mini-colloquia</a>). Organiser and chair of the ECAI 2024 (<a href="https://symbiosisnn-des.github.io/">symbiosisnn-des.github.io</a>) and 2025 (<a href="https://mlde-ecai-2025.github.io/">mlde-ecai-2025.github.io</a>) Tutorial "The Symbiosis of Neural Networks and Differential Equations: From Physics-Informed Neural Networks to Neural ODEs" and ECML 2025 (<a href="https://nnsdestutorial.github.io/">nnsdestutorial.github.io</a>) Tutorial "Neural Networks and Differential Equations: From Infinite Layers to Continuous Modelling.".
 
-
-## Chairs
 ### Doaa Mohamed, Interdisciplinary Centre for Advanced Materials Simulation (ICAMS), Ruhr University Bochum, Germany
 
 <div>
@@ -115,6 +113,7 @@ Postdoctoral researcher at the Professorship of Computer Science in Mechanical E
 
 PhD researcher at the Interdisciplinary Centre for Advanced Materials Simulation (ICAMS), Ruhr University Bochum. Her research focuses on machine learning under data-scarce conditions, active learning, uncertainty-aware modelling, and the development of scientific data infrastructures for advanced materials discovery. She also works on the design and integration of research databases supporting structured data management, interoperability, and reproducible machine learning workflows in materials science.
 
+## Chairs
 ### Luís Ferrás, Department of Mechanical Engineering, Faculty of Engineering, University of Porto, Porto, Portugal
 
 <div>
