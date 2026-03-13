@@ -26,7 +26,7 @@ We invite submissions on topics at the intersection of machine learning and phys
 - Generative models for novel materials and molecular systems
 - Transfer learning and meta-learning across materials domains
 - Learning from heterogeneous, incomplete, and multi-modal scientific datasets
-
+- Self-supervised, weakly supervised, and few-shot learning for scientific and materials data
 
 
 ### Submission Tracks
