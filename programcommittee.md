@@ -4,4 +4,9 @@ title: Program Committee
 subtitle: 
 ---
 
-Details about the program committee will be announced soon. Stay tuned!
+- **Hilda Sandström**, School of Natural Sciences, Technical University of Munich, Garching bei München, Bavaria, Germany  
+- **Daniel Leite**, Paderborn University, Germany  
+- **Tarek Gaber**, University of Salford, UK  
+- **Dina Elmanakhly**, Suez Canal University, Egypt  
+- **Samir Moustafa**, University of Vienna, Austria  
+- **Mohammed Fellaji**, CentraleSupélec, Université Paris-Saclay, CNRS, LORIA, France
