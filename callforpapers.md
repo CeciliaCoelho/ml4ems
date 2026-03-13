@@ -20,7 +20,14 @@ We invite submissions on topics at the intersection of machine learning and phys
 - Transportation and mobility systems
 - Smart cities and integrated urban energy systems
 - Climate science, climate modelling, and earth system emulation
-- Interpretability and explainability for scientific and industrial machine learning
+- Interpretability, explainability, and scientific insight extraction in machine learning for scientific and industrial applications
+- Closed-loop and autonomous discovery systems integrating simulations and experiments
+- Inverse materials design and optimisation
+- Generative models for novel materials and molecular systems
+- Transfer learning and meta-learning across materials domains
+- Learning from heterogeneous, incomplete, and multi-modal scientific datasets
+
+
 
 ### Submission Tracks
 
