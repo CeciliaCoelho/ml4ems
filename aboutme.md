@@ -296,7 +296,7 @@ Postdoctoral researcher and research group leader at Bielefeld University of App
 
 Postdoctoral researcher at ICAMS, Ruhr University Bochum, working on data-driven approaches to accelerate materials discovery. His research focuses on applying natural language processing and machine learning to scientific literature mining, multi-modal learning, and optimisation for electrocatalyst discovery combined with experimental validation.
 
-### Thomas Philipp Zimmermann, Bielefeld University of Applied Sciences and Arts, Germany
+### Thomas Philipp Zimmermann, Bielefeld Institute of Applied Materials Research, Bielefeld University of Applied Sciences and Arts, Bielefeld, Germany
 
 <div>
 <li class="list-inline-item">
@@ -320,7 +320,7 @@ Postdoctoral researcher at ICAMS, Ruhr University Bochum, working on data-driven
 
 Postdoctoral researcher specialising in formulation chemistry and structure–function correlations. His work focuses on biomaterials containing living cells for biological pest control applications. He aims to improve formulation efficiency using machine learning techniques to support sustainable alternatives to conventional solutions.
 
-### Elzbieta Stepula, Bielefeld University of Applied Sciences and Arts, Germany
+### Elzbieta Stepula, Bielefeld Institute of Applied Materials Research, Bielefeld University of Applied Sciences and Arts, Bielefeld, Germany
 
 <div>
 <li class="list-inline-item">
