@@ -37,7 +37,7 @@ subtitle:
 
 <div class="workshop-column">
 
-<h2 class="workshop-column-title">ML4EMS</h2>
+<h2 class="workshop-column-title">[ML4EMS] Machine Learning for Energy and Material Science: From Theory to Industry Applications</h2>
 
 
 <b>Cecília Coelho, Helmut Schmidt University, Hamburg, Germany</b>
