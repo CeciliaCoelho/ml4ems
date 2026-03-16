@@ -29,7 +29,7 @@ subtitle:
 </style>
 
 <div class="workshop-header">
-  <h2>ML4EMS &amp; International Workshop on Machine Learning for Scientific Discovery in Advanced Materials</h2>
+  <h2>[ML4EMS] Machine Learning for Energy and Material Science: From Theory to Industry Applications &amp; International Workshop on Machine Learning for Scientific Discovery in Advanced Materials</h2>
   <p>This is a joint workshop bringing together the ML4EMS community and the Machine Learning for Scientific Discovery in Advanced Materials community.</p>
 </div>
 
@@ -39,9 +39,8 @@ subtitle:
 
 <h2 class="workshop-column-title">ML4EMS</h2>
 
-## Main Chair
 
-### Cecília Coelho, Helmut Schmidt University, Hamburg, Germany
+<b>Cecília Coelho, Helmut Schmidt University, Hamburg, Germany</b>
 
 <div>
  <li class="list-inline-item">
@@ -105,9 +104,9 @@ subtitle:
 
 Postdoctoral researcher at the Professorship of Computer Science in Mechanical Engineering, Helmut Schmidt University, Hamburg, Germany. PhD in Mathematics. Her current research focuses on enhancing the performance of real-world systems modelling (physics, biology, chemistry, finance and engineering) by exploring the symbiosis of differential equations and neural networks and the integration of expert-knowledge, in the form of explicit constraints, into neural networks. Her research topics are: Theoretical Machine Learning; Optimisation for Machine Learning; Scientific-Machine Learning; Differential Equations; Numerical Analysis; Climate AI. Publication in major AI venues including ICLR 2023/2024 and workshops at ECML PKDD 2023 and ECAI 2023/2024. Actively contributes to the academic community as a reviewer for major AI conferences, including NeurIPS, ICLR, and IJCAI. Organizer of the ECAI 2024 (<a href="https://mlde-ecai-2024.github.io/">mlde-ecai-2024.github.io</a>) and 2025 (<a href="https://mlde-ecai-2025.github.io/">mlde-ecai-2025.github.io</a>) Workshop [ML-DE] "Machine Learning Meets Differential Equations: From Theory to Applications", and the Mini-Colloquia "Integrative approaches in physics: using machine learning to explore magnetism, disordered media, and materials science." at the General Conference of the Condensed Matter Division (CMD31) 2024 (<a href="https://cmd31.sci-meet.net/mini-colloquia">cmd31.sci-meet.net/mini-colloquia</a>). Organiser and chair of the ECAI 2024 (<a href="https://symbiosisnn-des.github.io/">symbiosisnn-des.github.io</a>) and 2025 (<a href="https://mlde-ecai-2025.github.io/">mlde-ecai-2025.github.io</a>) Tutorial "The Symbiosis of Neural Networks and Differential Equations: From Physics-Informed Neural Networks to Neural ODEs" and ECML 2025 (<a href="https://nnsdestutorial.github.io/">nnsdestutorial.github.io</a>) Tutorial "Neural Networks and Differential Equations: From Infinite Layers to Continuous Modelling.".
 
-## Chairs
 
-### Luís Ferrás, Department of Mechanical Engineering, Faculty of Engineering, University of Porto, Porto, Portugal
+
+<b>Luís Ferrás, Department of Mechanical Engineering, Faculty of Engineering, University of Porto, Porto, Portugal</b>
 
 <div>
  <li class="list-inline-item">
@@ -147,7 +146,7 @@ Earlier, he co-organised events such as the 11th OpenFOAM Workshop (2016), sever
 ---
 
 
-### María Ortiz de Zuniga, Fusion for Energy (F4E)
+<b>María Ortiz de Zuniga, Fusion for Energy (F4E)</b>
 
 <div>
  <li class="list-inline-item">
@@ -167,7 +166,7 @@ María is Head of Project Engineering, CAD and Data Management at Fusion for Ene
 
 ---
 
-### Oliver Niggemann, Helmut Schmidt University, Hamburg, Germany
+<b>Oliver Niggemann, Helmut Schmidt University, Hamburg, Germany</b>
 
 <div>
  <li class="list-inline-item">
@@ -209,9 +208,9 @@ He is the Principal Investigator of several research projects using ML for mater
 
 <h2 class="workshop-column-title">International Workshop on Machine Learning for Scientific Discovery in Advanced Materials</h2>
 
-## Main Chair
 
-### Doaa Mohamed, Interdisciplinary Centre for Advanced Materials Simulation (ICAMS), Ruhr University Bochum, Germany
+
+<b>Doaa Mohamed, Interdisciplinary Centre for Advanced Materials Simulation (ICAMS), Ruhr University Bochum, Germany</b>
 
 <div>
  <li class="list-inline-item">
@@ -254,9 +253,9 @@ He is the Principal Investigator of several research projects using ML for mater
 
 PhD researcher at the Interdisciplinary Centre for Advanced Materials Simulation (ICAMS), Ruhr University Bochum. Her research focuses on machine learning under data-scarce conditions, active learning, uncertainty-aware modelling, and the development of scientific data infrastructures for advanced materials discovery. She also works on the design and integration of research databases supporting structured data management, interoperability, and reproducible machine learning workflows in materials science.
 
-## Chairs
 
-### Markus Stricker, Interdisciplinary Centre for Advanced Materials Simulation (ICAMS), Ruhr University Bochum, Germany
+
+<b>Markus Stricker, Interdisciplinary Centre for Advanced Materials Simulation (ICAMS), Ruhr University Bochum, Germany</b>
 <div>
 <li class="list-inline-item">
     <a href="mailto:markus.stricker@ruhr-uni-bochum.de" title="Email me">
@@ -295,7 +294,7 @@ PhD researcher at the Interdisciplinary Centre for Advanced Materials Simulation
 
 Junior Professor for Materials Informatics and Data Science at the Interdisciplinary Centre for Advanced Materials Simulation (ICAMS), Ruhr University Bochum. He received his PhD in Mechanical Engineering from Karlsruhe Institute of Technology. His research focuses on exploiting the materials data space across simulations, experiments, and scientific literature, with particular emphasis on building representation bridges between different data modalities. He has organised and contributed to several workshops and conferences in artificial intelligence for materials science.
 
-### Alaa Tharwat, Bielefeld University of Applied Sciences and Arts (HSBI), Germany
+<b>Alaa Tharwat, Bielefeld University of Applied Sciences and Arts (HSBI), Germany</b>
 <div>
 <li class="list-inline-item">
     <a href="mailto:alaa.othman@hsbi.de" title="Email me">
@@ -318,7 +317,7 @@ Junior Professor for Materials Informatics and Data Science at the Interdiscipli
 
 Postdoctoral researcher and research group leader at Bielefeld University of Applied Sciences and Arts. His research interests include machine learning with small data, active learning strategies, and optimisation methods for Industry 4.0 applications. He has organised multiple workshops, tutorials, and special sessions at international conferences such as ECML PKDD and IJCNN.
 
-### Lei Zhang, Interdisciplinary Centre for Advanced Materials Simulation (ICAMS), Ruhr University Bochum, Germany
+<b>Lei Zhang, Interdisciplinary Centre for Advanced Materials Simulation (ICAMS), Ruhr University Bochum, Germany<b>
 
 <div>
 <li class="list-inline-item">
@@ -342,7 +341,7 @@ Postdoctoral researcher and research group leader at Bielefeld University of App
 
 Postdoctoral researcher at ICAMS, Ruhr University Bochum, working on data-driven approaches to accelerate materials discovery. His research focuses on applying natural language processing and machine learning to scientific literature mining, multi-modal learning, and optimisation for electrocatalyst discovery combined with experimental validation.
 
-### Thomas Philipp Zimmermann, Bielefeld Institute of Applied Materials Research, Bielefeld University of Applied Sciences and Arts, Bielefeld, Germany
+<b>Thomas Philipp Zimmermann, Bielefeld Institute of Applied Materials Research, Bielefeld University of Applied Sciences and Arts, Bielefeld, Germany</b>
 
 <div>
 <li class="list-inline-item">
@@ -366,7 +365,7 @@ Postdoctoral researcher at ICAMS, Ruhr University Bochum, working on data-driven
 
 Postdoctoral researcher specialising in formulation chemistry and structure–function correlations. His work focuses on biomaterials containing living cells for biological pest control applications. He aims to improve formulation efficiency using machine learning techniques to support sustainable alternatives to conventional solutions.
 
-### Elzbieta Stepula, Bielefeld Institute of Applied Materials Research, Bielefeld University of Applied Sciences and Arts, Bielefeld, Germany
+<b>Elzbieta Stepula, Bielefeld Institute of Applied Materials Research, Bielefeld University of Applied Sciences and Arts, Bielefeld, Germany</b>
 
 <div>
 <li class="list-inline-item">
