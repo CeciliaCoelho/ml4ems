@@ -4,6 +4,41 @@ title: Team
 subtitle: 
 ---
 
+<style>
+.workshop-header {
+  text-align: center;
+  margin-bottom: 2em;
+}
+.workshop-columns {
+  display: flex;
+  gap: 2em;
+  align-items: flex-start;
+}
+.workshop-column {
+  flex: 1;
+  min-width: 0;
+}
+.workshop-column-title {
+  text-align: center;
+}
+@media (max-width: 768px) {
+  .workshop-columns {
+    flex-direction: column;
+  }
+}
+</style>
+
+<div class="workshop-header">
+  <h2>ML4EMS &amp; International Workshop on Machine Learning for Scientific Discovery in Advanced Materials</h2>
+  <p>This is a joint workshop bringing together the ML4EMS community and the Machine Learning for Scientific Discovery in Advanced Materials community.</p>
+</div>
+
+<div class="workshop-columns">
+
+<div class="workshop-column">
+
+<h2 class="workshop-column-title">ML4EMS</h2>
+
 ## Main Chair
 
 ### Cecília Coelho, Helmut Schmidt University, Hamburg, Germany
@@ -70,50 +105,8 @@ subtitle:
 
 Postdoctoral researcher at the Professorship of Computer Science in Mechanical Engineering, Helmut Schmidt University, Hamburg, Germany. PhD in Mathematics. Her current research focuses on enhancing the performance of real-world systems modelling (physics, biology, chemistry, finance and engineering) by exploring the symbiosis of differential equations and neural networks and the integration of expert-knowledge, in the form of explicit constraints, into neural networks. Her research topics are: Theoretical Machine Learning; Optimisation for Machine Learning; Scientific-Machine Learning; Differential Equations; Numerical Analysis; Climate AI. Publication in major AI venues including ICLR 2023/2024 and workshops at ECML PKDD 2023 and ECAI 2023/2024. Actively contributes to the academic community as a reviewer for major AI conferences, including NeurIPS, ICLR, and IJCAI. Organizer of the ECAI 2024 (<a href="https://mlde-ecai-2024.github.io/">mlde-ecai-2024.github.io</a>) and 2025 (<a href="https://mlde-ecai-2025.github.io/">mlde-ecai-2025.github.io</a>) Workshop [ML-DE] "Machine Learning Meets Differential Equations: From Theory to Applications", and the Mini-Colloquia "Integrative approaches in physics: using machine learning to explore magnetism, disordered media, and materials science." at the General Conference of the Condensed Matter Division (CMD31) 2024 (<a href="https://cmd31.sci-meet.net/mini-colloquia">cmd31.sci-meet.net/mini-colloquia</a>). Organiser and chair of the ECAI 2024 (<a href="https://symbiosisnn-des.github.io/">symbiosisnn-des.github.io</a>) and 2025 (<a href="https://mlde-ecai-2025.github.io/">mlde-ecai-2025.github.io</a>) Tutorial "The Symbiosis of Neural Networks and Differential Equations: From Physics-Informed Neural Networks to Neural ODEs" and ECML 2025 (<a href="https://nnsdestutorial.github.io/">nnsdestutorial.github.io</a>) Tutorial "Neural Networks and Differential Equations: From Infinite Layers to Continuous Modelling.".
 
-### Doaa Mohamed, Interdisciplinary Centre for Advanced Materials Simulation (ICAMS), Ruhr University Bochum, Germany
-
-<div>
- <li class="list-inline-item">
-    <a href="mailto:Doaa.mohamed@ruhr-uni-bochum.de" title="Email me">
-      <span class="fa-stack fa-lg" aria-hidden="true">
-        <i class="fas fa-circle fa-stack-2x"></i>
-        <i class="fas fa-envelope fa-stack-1x fa-inverse"></i>
-      </span>
-   </a>
-  </li>
-
-
-<li class="list-inline-item">
-    <a href="https://scholar.google.com/citations?user=4uL1rf4AAAAJ&hl=en" title="Google Scholar">
-      <span class="fa-stack fa-lg" aria-hidden="true">
-        <i class="fas fa-circle fa-stack-2x"></i>
-        <i class="fa fa-graduation-cap fa-stack-1x fa-inverse"></i>
-      </span>
-    </a>
-</li>
-
-<li class="list-inline-item">
-    <a href="https://github.com/doaa1012?tab=repositories" title="GitHub">
-      <span class="fa-stack fa-lg" aria-hidden="true">
-        <i class="fas fa-circle fa-stack-2x"></i>
-        <i class="fab fa-github fa-stack-1x fa-inverse"></i>
-      </span>
-   </a>
-</li>
-
-<li class="list-inline-item">
-    <a href="https://www.linkedin.com/in/doaa-mohamed-6a8a5ab9/" title="LinkedIn">
-      <span class="fa-stack fa-lg" aria-hidden="true">
-        <i class="fas fa-circle fa-stack-2x"></i>
-        <i class="fab fa-linkedin fa-stack-1x fa-inverse"></i>
-      </span>
-   </a>
-</li>
-</div>
-
-PhD researcher at the Interdisciplinary Centre for Advanced Materials Simulation (ICAMS), Ruhr University Bochum. Her research focuses on machine learning under data-scarce conditions, active learning, uncertainty-aware modelling, and the development of scientific data infrastructures for advanced materials discovery. She also works on the design and integration of research databases supporting structured data management, interoperability, and reproducible machine learning workflows in materials science.
-
 ## Chairs
+
 ### Luís Ferrás, Department of Mechanical Engineering, Faculty of Engineering, University of Porto, Porto, Portugal
 
 <div>
@@ -209,6 +202,59 @@ María is Head of Project Engineering, CAD and Data Management at Fusion for Ene
 
 Full Professor at Helmut Schmidt University, chair of "Computer Science in Mechanical Engineering" with a focus on AI and machine learning in cyber-physical systems. His contributions are evident in his publications at major AI conferences like AAAI (2015, 2019) and his organizer/chairing roles, i.e. at IJCAI 2021 workshop on AI and Product Design (<a href="https://www.hsu-hh.de/imb/en/ijcai-2021-workshop-ai-and-product-design">www.hsu-hh.de/imb/en/ijcai-2021-workshop-ai-and-product-design</a>), at International Workshop on Principle of Diagnosis (DX) 2021 (<a href="https://www.hsu-hh.de/imb/en/dx-2021">www.hsu-hh.de/imb/en/dx-2021</a>), at the conference Machine Learning for Cyber-Physical Systems (ML4CPS) 2023/2024/2025/2026 (<a href="https://www.hsu-hh.de/imb/en/ml4cps">www.hsu-hh.de/imb/en/ml4cps</a>), or at AAAI 2024 workshop on AI Planning for Cyber-Physical Systems (<a href="https://www.hsu-hh.de/imb/en/aaai24-caipi">www.hsu-hh.de/imb/en/aaai24-caipi</a>). He is also a PC member at ECAI 2023. IJCAI (2023, 2022, 2021, 2020, 2018) and AAAI (2022, 2021, 2020, 2018, 2017, 2016). Organizer of the ECAI 2024 (<a href="https://mlde-ecai-2024.github.io/">mlde-ecai-2024.github.io</a>) and 2025 (<a href="https://mlde-ecai-2025.github.io/">mlde-ecai-2025.github.io</a>) Workshop [ML-DE] "Machine Learning Meets Differential Equations: From Theory to Applications".
 He is the Principal Investigator of several research projects using ML for material science, such as for aircraft maintenance, sheet metal forming, material damage due to fire, among others.
+
+</div>
+
+<div class="workshop-column">
+
+<h2 class="workshop-column-title">International Workshop on Machine Learning for Scientific Discovery in Advanced Materials</h2>
+
+## Main Chair
+
+### Doaa Mohamed, Interdisciplinary Centre for Advanced Materials Simulation (ICAMS), Ruhr University Bochum, Germany
+
+<div>
+ <li class="list-inline-item">
+    <a href="mailto:Doaa.mohamed@ruhr-uni-bochum.de" title="Email me">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fas fa-envelope fa-stack-1x fa-inverse"></i>
+      </span>
+   </a>
+  </li>
+
+
+<li class="list-inline-item">
+    <a href="https://scholar.google.com/citations?user=4uL1rf4AAAAJ&hl=en" title="Google Scholar">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fa fa-graduation-cap fa-stack-1x fa-inverse"></i>
+      </span>
+    </a>
+</li>
+
+<li class="list-inline-item">
+    <a href="https://github.com/doaa1012?tab=repositories" title="GitHub">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-github fa-stack-1x fa-inverse"></i>
+      </span>
+   </a>
+</li>
+
+<li class="list-inline-item">
+    <a href="https://www.linkedin.com/in/doaa-mohamed-6a8a5ab9/" title="LinkedIn">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-linkedin fa-stack-1x fa-inverse"></i>
+      </span>
+   </a>
+</li>
+</div>
+
+PhD researcher at the Interdisciplinary Centre for Advanced Materials Simulation (ICAMS), Ruhr University Bochum. Her research focuses on machine learning under data-scarce conditions, active learning, uncertainty-aware modelling, and the development of scientific data infrastructures for advanced materials discovery. She also works on the design and integration of research databases supporting structured data management, interoperability, and reproducible machine learning workflows in materials science.
+
+## Chairs
 
 ### Markus Stricker, Interdisciplinary Centre for Advanced Materials Simulation (ICAMS), Ruhr University Bochum, Germany
 <div>
@@ -343,6 +389,10 @@ Postdoctoral researcher specialising in formulation chemistry and structure–fu
 </div>
 
 Postdoctoral researcher with a background in physical chemistry, spectroscopy, and microscopy. Her research focuses on developing innovative biomaterials and optimising characterisation methods. She works at the interface of materials science, data science, and machine learning to enable data-driven development of advanced material systems.
+
+</div>
+
+</div>
 
 ## Organisers
 
