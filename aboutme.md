@@ -34,7 +34,7 @@ subtitle:
 </style>
 
 <div class="workshop-header">
-  <h2>[ML4EMS] Machine Learning for Energy and Material Science: From Theory to Industry Applications &amp; International Workshop on Machine Learning for Scientific Discovery in Advanced Materials</h2>
+ 
   <p>This is a joint workshop bringing together the ML4EMS community and the Machine Learning for Scientific Discovery in Advanced Materials community.</p>
 </div>
 
