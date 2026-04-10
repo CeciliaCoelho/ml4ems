@@ -4,6 +4,8 @@ title: Call for Papers
 subtitle: 
 ---
 
+## [Submit via CMT here.](https://cmt3.research.microsoft.com/ECMLPKDDWT2026/Submission/Index)
+
 We invite submissions on topics at the intersection of machine learning and physical sciences, including but not limited to:
 
 - Materials processing, manufacturing, and industrial applications
