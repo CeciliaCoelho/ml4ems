@@ -7,7 +7,7 @@ subtitle:
 ## Paola Cinnella, Sorbonne University, Paris, France
 ### Title: Physics-Aware Machine Learning and Multi-Fidelity Surrogates for Low-Carbon Energy and Transportation
 
-#### Abstract: 
+### Abstract: 
 Accurate numerical models are essential for improving the efficiency of energy and transportation systems, but high-fidelity simulations of complex fluid systems are overly expensive for large-scale design and optimization, and they heavily rely on carbon-intensive high-performance computing. This talk will discuss how physics-aware machine learning and multi-fidelity surrogate modeling can accelerate the development of low-carbon technologies by combining scarce high-fidelity simulations with cheaper lower-fidelity models and experimental data.
 Examples from aerodynamics and energy systems will illustrate the use of hybrid ML-augmented CFD approaches, where machine learning enhances selected components of the numerical pipeline, such as turbulence closures, while preserving the underlying physical modeling. The presentation will also discuss neural surrogate models, active learning strategies, and emerging directions toward scientific foundation models for engineering physics. More broadly, the talk will highlight how machine learning can help distill and transfer high-fidelity scientific knowledge to accelerate innovation in hard-to-decarbonize industries.
 
